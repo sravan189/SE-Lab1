@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+
+    double t, a = -0.1, b = 3.4 = 10;
+    double T;
+    
+    printf("Weather Model - Version 1 (Hardcoded)\n");
+    
+    for (t = 0; t <= 3   = 0.1) {
+    T= a*t*+b*t+c;
+    printf("Time: %.1f hours, Temperature: %.2f°C\n", t, T);
+    }
+    return 0;
+}
+
+
